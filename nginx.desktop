@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=NGINX Control
+Comment=NGINX Control Panel
+Exec=gksu python /home/mridul/nginx_c/nginx.py
+Icon=/home/mridul/nginx_c/nginx.png
+Terminal=false
+Type=Application
+Categories=Programming;
